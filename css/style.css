@@ -43,7 +43,9 @@ text-align: justify;
 	
 }
 
-
+.galleryrow {
+  margin: 15px;
+}
 
 /*** Button ***/
 .btn {
