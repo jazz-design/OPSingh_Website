@@ -496,3 +496,10 @@ left: 0;
  background: aqua;
  
 }
+.head_txt
+{
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color:#e31e24;
+font-size:36px;
+	
+}
