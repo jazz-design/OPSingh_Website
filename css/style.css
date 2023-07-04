@@ -207,11 +207,66 @@ text-align: justify;
 }
 
 .page-header {
-    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url(../img/carousel-1.jpg);
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph1.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+.page-header1 {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header2 {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header_contact {
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph3.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header_courses{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header_courses{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header_gallery{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph5.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-header_testimonials{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph6.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.page-header_vm{
+    background: linear-gradient(rgba(24, 29, 56, .7), rgba(24, 29, 56, .7)), url("../img/ph7.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .page-header-inner {
     background: rgba(15, 23, 43, .7);
