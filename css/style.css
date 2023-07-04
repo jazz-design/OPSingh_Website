@@ -98,11 +98,13 @@ text-align: justify;
 
 .navbar-light .navbar-nav .nav-link {
     margin-right: 30px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     padding: 25px 0;
     color: #FFFFFF;
-    font-size: 15px;
+    font-size: 16px;
     text-transform: uppercase;
     outline: none;
+	
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
@@ -128,7 +130,7 @@ text-align: justify;
 
 .navbar-light .navbar-nav .nav-link {
     color:#dd040a;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .navbar-light.sticky-top {
@@ -143,6 +145,7 @@ text-align: justify;
         opacity: 0;
         visibility: hidden;
         transition: .5s;
+		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     }
 
     .navbar .dropdown-menu.fade-down {
@@ -157,6 +160,7 @@ text-align: justify;
         visibility: visible;
         transition: .5s;
         opacity: 1;
+		
     }
 }
 
